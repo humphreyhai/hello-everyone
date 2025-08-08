@@ -1,2 +1,2 @@
 # hello-everyone
-练习
+练习生
